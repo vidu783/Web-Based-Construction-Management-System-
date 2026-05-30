@@ -136,3 +136,10 @@ This project provided practical experience in:
 ## Authors
 
 Developed as part of the Information Systems Project (ISP) at SLIIT.
+
+## Source Code
+
+The complete project source code, including both frontend and backend components, is available in the **DU-Homes-main.zip** file located in this repository.
+
+After downloading the repository, extract the ZIP file to access the full project structure and source code.
+
