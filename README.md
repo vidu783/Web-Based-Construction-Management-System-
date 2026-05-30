@@ -19,14 +19,7 @@ A full-stack web application for managing construction sites, workers, officers,
 - Payment processing and reports
 - Real-time dashboard with analytics
 
-## Team Members
 
-| ID | Name | Contribution |
-|---|---|---|
-| IT24102845 | Lasitha| Dashboard, Sites, User Management, Login |
-| IT24100144 | Oneli | Workers, Officers, Deployments, Attendance |
-| it24101783 | Yashmika | Tools & Equipment Management |
-| IT24102144 | Malmee| Payments, Payroll |
 
 ## Setup
 
